@@ -14,12 +14,6 @@ and ERC20 tokens in the Ethereum network.
 
 This architecture provides the following guarantees:
 
-- The Rollup validator(s) can never corrupt the state or steal funds (unlike Sidechains).
-- Users can always retrieve the funds from the Rollup even if validator(s) stop cooperating because the data is
-  available (unlike Plasma).
-- Thanks to validity proofs, neither users nor a single other trusted party needs to be online to monitor Rollup blocks
-  in order to prevent fraud.
-
 In other words, ZK Rollup strictly inherits the security guarantees of the underlying L1.
 
 To learn how to use zkSync, please refer to the [zkSync SDK documentation](https://zksync.io/api/sdk/).
