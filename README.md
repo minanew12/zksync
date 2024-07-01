@@ -15,16 +15,6 @@ and ERC20 tokens in the Ethereum network.
 This architecture provides the following guarantees:
 
 To learn how to use zkSync, please refer to the [zkSync SDK documentation](https://zksync.io/api/sdk/).
-
-## Development Documentation
-
-The following guides for developers are available:
-
-- Installing development dependencies: [docs/setup-dev.md](docs/setup-dev.md).
-- Launching zkSync locally: [docs/launch.md](docs/launch.md).
-- Development guide: [docs/development.md](docs/development.md).
-- Repository architecture overview: [docs/architecture.md](docs/architecture.md).
-
 ## Projects
 
 - [zkSync server](core/bin/server)
